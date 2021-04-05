@@ -1,0 +1,7 @@
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\Rock_paper_scissors.exe.config
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\Rock_paper_scissors.exe
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\Rock_paper_scissors.pdb
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\Rock_paper_scissors.csprojAssemblyReference.cache
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\Rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\Rock_paper_scissors.exe
+C:\Users\hobas\Desktop\itra\Z_3\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\Rock_paper_scissors.pdb
